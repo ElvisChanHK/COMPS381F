@@ -1,4 +1,4 @@
-const MONGO_CONNECTION_URL='';
+const MONGO_CONNECTION_URL='mongodb+srv://s1334520:<Elvis689>@cluster0.nyublhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 const SESSION_SECRET = '';
 const COOKIE_MAXAGE = 30 * 60; // 30 minutes
 
